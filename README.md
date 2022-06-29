@@ -1,1 +1,4 @@
 - 👋 Hi, I’m @Murilo-Augusto
+- 👀 I'm interested in internships in the IT area.
+- 🌱 I'm currently learning React Native.
+- 📫 How to reach me: mu10-2015@hotmail.com 
